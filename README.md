@@ -259,14 +259,6 @@ O curso inclui 7 desafios práticos que aplicam os conceitos aprendidos em cada 
 - **IA e ML**: Modelos supervisionados e não-supervisionados
 - **Cloud**: AWS para implementação de modelos em produção
 
-## 📝 Conteúdo do Repositório
-
-Este repositório está organizado por módulos, contendo materiais de estudo, códigos e soluções dos desafios desenvolvidos durante o curso.
-
-## 📫 Contato
-
-Para dúvidas ou sugestões sobre este repositório, entre em contato através do GitHub.
-
 ---
 
 **Nota**: Este repositório contém materiais de estudo do curso de Data Science da DNC e serve como portfólio de aprendizado e desenvolvimento de habilidades na área.
