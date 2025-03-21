@@ -1,51 +1,89 @@
 # DNC_DataScience
 
-Repositório do curso de Data Science da DNC, contendo materiais, exercícios e projetos desenvolvidos durante o programa.
+<div align="center">
+  <h3>Repositório de Estudos e Projetos em Data Science</h3>
+  <p><i>Materiais, exercícios e projetos desenvolvidos durante o curso da DNC</i></p>
+</div>
+
+<p align="center">
+  <a href="#-visão-geral">Visão Geral</a> •
+  <a href="#-estrutura-do-curso">Estrutura</a> •
+  <a href="#-projetos-e-desafios">Projetos</a> •
+  <a href="#-ferramentas">Ferramentas</a> •
+  <a href="#-conteúdo">Conteúdo</a>
+</p>
+
+## 🔍 Visão Geral
+
+Este repositório documenta minha jornada de aprendizado em Data Science através do curso da DNC, incluindo códigos, projetos práticos e materiais de estudo. O conteúdo reflete tanto a matriz curricular original quanto a atualizada, oferecendo uma visão completa das habilidades desenvolvidas.
+
+<details>
+<summary><b>🌟 Sobre a atualização curricular</b> (Clique para expandir)</summary>
+
+> **Observação importante**: Este repositório está em processo de atualização para refletir a nova matriz curricular. Os materiais de ambas as versões (original e atualizada) serão disponibilizados na medida do possível.
+
+### Por que essa atualização é importante?
+
+1️⃣ **Conteúdo alinhado com o mercado**
+- Módulos revisados para refletir tendências e exigências das empresas
+- Foco em habilidades práticas valorizadas pelos empregadores
+
+2️⃣ **Carga horária otimizada**
+- Maior profundidade em Python, IA, Estatística e Machine Learning
+- Distribuição de tempo baseada na relevância dos tópicos para o mercado atual
+
+3️⃣ **Aprendizado prático e direcionado**
+- Cases reais de empresas para aplicação imediata dos conhecimentos
+- Materiais didáticos atualizados com as mais recentes ferramentas e técnicas
+- Projetos que simulam desafios reais do dia a dia de um cientista de dados
+
+</details>
 
 ## 📚 Estrutura do Curso
 
-O curso está organizado em 7 módulos principais, cada um focando em diferentes aspectos da ciência de dados:
+<details>
+<summary><b>📋 Matriz Curricular Original</b> (Clique para expandir)</summary>
 
-### 📋 Matriz Curricular Original
-
-#### Matéria 1: Introdução à Análise de Dados
+### Matéria 1: Introdução à Análise de Dados
 - **Base de Dados** (4h)
 - **Excel Intermediário** (8h)
 - **Power BI** (8h)
 - **Desafio 1** (3h)
 
-#### Matéria 2: Power BI
+### Matéria 2: Power BI
 - **Carreira** (2h)
 - **Excel Intermediário** (8h)
 - **Desafio 2** (3h)
 
-#### Matéria 3: SQL para Análise de Dados
+### Matéria 3: SQL para Análise de Dados
 - **SQL para Análise de Dados** (8h)
 - **Desafio 3** (3h)
 
-#### Matéria 4: Análise de Regressão em Python
+### Matéria 4: Análise de Regressão em Python
 - **Introdução ao Python** (12h)
 - **Análise de Dados com Python** (6h)
 - **CRISP-DM** (11h)
 - **Desafio 4** (3h)
 
-#### Matéria 5: Extração e Tratamento em Python
+### Matéria 5: Extração e Tratamento em Python
 - **Data Cleaning e Wrangling** (8h)
 - **Desafio 5** (3h)
 
-#### Matéria 6: Modelos de Classificação
+### Matéria 6: Modelos de Classificação
 - **Regressão** (7h)
 - **Classificação** (5h)
 - **Desafio 6** (3h)
 
-#### Matéria 7: Modelos de Clusterização
+### Matéria 7: Modelos de Clusterização
 - **Clustering** (7h)
 - **Sistemas de Recomendação** (6h)
 - **Big Data** (5h)
 - **Modelos** (3h)
 - **Desafio 7** (3h)
+</details>
 
-### 🚀 Nova Matriz Curricular Atualizada
+<details open>
+<summary><b>🚀 Nova Matriz Curricular Atualizada</b> (Atual)</summary>
 
 ### Matéria 1: Introdução à Análise de Dados
 - **Introdução a Dados** (2h): Conceitos fundamentais, estrutura e qualidade de dados
@@ -63,11 +101,11 @@ O curso está organizado em 7 módulos principais, cada um focando em diferentes
 - **Desafio 3** (3h): Projeto prático de análise com SQL
 
 ### Matéria 4: Análise de Dados em Python
-- **Introdução ao Python** (9h): Configuração do ambiente, estruturação de código, manipulação de listas e variáveis compostas
+- **Introdução ao Python** (9h): Configuração do ambiente, estruturação de código
 - **Análise de Dados com Python** (6h): Uso avançado de Pandas, NumPy, Matplotlib e Seaborn
 - **Estatística Descritiva** (5h): Organização, resumo e análise exploratória de dados
-- **Estatística Inferencial** (8h): Amostragem, distribuições de probabilidade, intervalos de confiança e testes de hipóteses
-- **IA para análise de Dados** (2h): Utilização de Python e SQL para acelerar e automatizar análises
+- **Estatística Inferencial** (8h): Amostragem, distribuições de probabilidade, testes de hipóteses
+- **IA para análise de Dados** (2h): Automação com Python e SQL
 - **Desafio 4** (3h): Projeto de análise de dados com Python
 
 ### Matéria 5: Extração e Tratamento em Python
@@ -84,14 +122,12 @@ O curso está organizado em 7 módulos principais, cada um focando em diferentes
 ### Matéria 7: Modelos de Clusterização
 - **Clustering** (7h): Técnicas de agrupamento não supervisionado
 - **Big Data** (5h): Conceitos e ferramentas para grandes volumes de dados
-- **Modelos com IA e Cloud** (6h): Implementação e monitoramento de modelos de ML utilizando AWS
+- **Modelos com IA e Cloud** (6h): Implementação de modelos de ML utilizando AWS
 - **Desafio 7** (3h): Projeto final de clusterização
+</details>
 
-## 🔄 Atualização da Matriz Curricular
-
-![Estrutura Atualizada do Curso](https://github.com/user/DNC_DataScience/raw/main/images/estrutura_curso.png)
-
-### ✨ Módulos Novos
+<details>
+<summary><b>✨ Módulos Novos</b> (Clique para expandir)</summary>
 
 1. **Introdução a Dados** (2h)
    - Conceitos fundamentais e estrutura de dados
@@ -124,8 +160,10 @@ O curso está organizado em 7 módulos principais, cada um focando em diferentes
    - Implementação de modelos de ML na AWS
    - Desenvolvimento de pipelines escaláveis
    - Integração de IA e computação em nuvem
+</details>
 
-### 🔄 Módulos Regravados e Aprimorados
+<details>
+<summary><b>🔄 Módulos Regravados e Aprimorados</b> (Clique para expandir)</summary>
 
 1. **Introdução a Python** (9h)
    - Configuração do ambiente de desenvolvimento
@@ -153,96 +191,33 @@ O curso está organizado em 7 módulos principais, cada um focando em diferentes
    - Regressão linear simples e múltipla
    - Otimização de hiperparâmetros
    - Avaliação e implementação de modelos de regressão
-
-## 🌟 Por que essa atualização é importante?
-
-<div align="center">
-<img src="https://github.com/user/DNC_DataScience/raw/main/images/data_science_workflow.png" alt="Data Science Workflow" width="600"/>
-</div>
-
-### 1️⃣ Conteúdo alinhado com o mercado
-- Módulos completamente revisados para refletir as tendências e exigências das empresas
-- Foco em habilidades práticas valorizadas pelos empregadores
-
-### 2️⃣ Carga horária otimizada
-- Maior profundidade em Python, IA, Estatística e Machine Learning
-- Distribuição de tempo baseada na relevância dos tópicos para o mercado atual
-
-### 3️⃣ Aprendizado prático e direcionado
-- Cases reais de empresas para aplicação imediata dos conhecimentos
-- Materiais didáticos atualizados com as mais recentes ferramentas e técnicas
-- Projetos que simulam desafios reais do dia a dia de um cientista de dados
-
-## 🔄 Sobre a Atualização da Matriz Curricular
-
-> **Observação importante**: Este repositório está em processo de atualização para refletir a nova matriz curricular. Os materiais de ambas as versões (original e atualizada) serão disponibilizados na medida do possível, permitindo acesso ao conteúdo completo do curso.
-
-```mermaid
-graph TD
-    A[Atualização da Matriz Curricular] --> B[Módulos Novos]
-    A --> C[Módulos Regravados]
-    A --> D[Benefícios]
-    
-    B --> B1[Introdução a Dados]
-    B --> B2[Estatística Descritiva]
-    B --> B3[Estatística Inferencial]
-    B --> B4[IA para Análise de Dados]
-    B --> B5[Introdução a ML]
-    B --> B6[IA para Ciência de Dados]
-    B --> B7[Modelos com IA e Cloud]
-    
-    C --> C1[Introdução a Python]
-    C --> C2[Análise de Dados com Python]
-    C --> C3[Data Cleaning e Wrangling]
-    C --> C4[Classificação]
-    C --> C5[Regressão]
-    
-    D --> D1[Conteúdo atualizado com o mercado]
-    D --> D2[Carga horária maior nos tópicos relevantes]
-    D --> D3[Aprendizado prático e direcionado]
-```
-
-## 🛠️ Ferramentas e Tecnologias
-
-```mermaid
-graph TD
-    A[Data Science] --> B[Análise de Dados]
-    A --> C[Machine Learning]
-    A --> D[Big Data]
-    
-    B --> E[Excel]
-    B --> F[SQL]
-    B --> G[Python - Pandas/NumPy]
-    B --> H[Visualização - Matplotlib/Seaborn]
-    
-    C --> I[Modelos Supervisionados]
-    C --> J[Modelos Não-Supervisionados]
-    C --> K[IA Aplicada]
-    
-    I --> L[Regressão]
-    I --> M[Classificação]
-    
-    J --> N[Clustering]
-    J --> O[Redução de Dimensionalidade]
-    
-    D --> P[Cloud Computing - AWS]
-    D --> Q[Processamento Distribuído]
-    
-    K --> R[AutoML]
-    K --> S[Deep Learning]
-```
+</details>
 
 ## 📊 Projetos e Desafios
 
-O curso inclui 7 desafios práticos que aplicam os conceitos aprendidos em cada módulo, permitindo aos alunos consolidar conhecimentos e desenvolver projetos para o portfólio. Abaixo, detalhamos cada um dos desafios previstos no curso:
+<details open>
+<summary><b>Visão Geral dos Desafios</b></summary>
 
-### 🔍 Desafio 1: Preveja os resultados de um e-commerce utilizando o Power BI
+O curso inclui 7 desafios práticos que aplicam os conceitos aprendidos em cada módulo, permitindo consolidar conhecimentos e desenvolver projetos para o portfólio.
 
-**Status**: Concluído ✅
+| # | Desafio | Status | Tecnologias |
+|---|---------|--------|-------------|
+| 1 | Dashboard de E-commerce | ✅ Concluído | Power BI, DAX |
+| 2 | Análise Avançada com Excel | ⏳ Não iniciado | Excel, Funções Avançadas |
+| 3 | Consultas e Análises SQL | ⏳ Não iniciado | SQL, Banco de Dados |
+| 4 | Análise Exploratória com Python | ⏳ Não iniciado | Python, Pandas, Matplotlib |
+| 5 | Pipeline de Limpeza de Dados | ⏳ Não iniciado | Python, Pandas |
+| 6 | Modelos de Classificação e Regressão | ⏳ Não iniciado | Scikit-learn, Python |
+| 7 | Clusterização e Recomendação | ⏳ Não iniciado | Python, AWS, ML |
+
+</details>
+
+<details>
+<summary><b>🔍 Desafio 1: Dashboard de E-commerce no Power BI</b> (Concluído ✅)</summary>
 
 **Objetivo**: Criar um dashboard no Power BI para analisar os resultados de um e-commerce e prever tendências futuras.
 
-**Descrição**: Neste desafio, os alunos devem desenvolver um dashboard interativo no Power BI para analisar dados de vendas de um e-commerce. O arquivo RID190616_Desafio01.pbix contém a solução desenvolvida, que inclui:
+**Descrição**: Neste desafio, desenvolvi um dashboard interativo no Power BI para analisar dados de vendas de um e-commerce. O arquivo RID190616_Desafio01.pbix contém a solução desenvolvida, que inclui:
 
 1) **Análise de vendas por período**:
    - Visualização de tendências temporais
@@ -271,56 +246,52 @@ O curso inclui 7 desafios práticos que aplicam os conceitos aprendidos em cada 
 - Desenvolvimento de visualizações interativas
 - Implementação de modelos preditivos simples
 - Apresentação de insights de negócios
+</details>
 
-### 🔍 Desafio 2: Análise avançada com Excel
+<details>
+<summary><b>🔍 Desafios 2-7</b> (Clique para expandir)</summary>
 
-**Status**: Não iniciado ⏳
+### 🔍 Desafio 2: Análise avançada com Excel (⏳ Não iniciado)
 
 **Objetivo**: Desenvolver análises complexas utilizando recursos avançados do Excel.
 
 **Descrição**: Este desafio envolverá o uso de funções avançadas do Excel, como PROCV, SOMASE, tabelas dinâmicas, e ferramentas de análise estatística para extrair insights de conjuntos de dados empresariais.
 
-### 🔍 Desafio 3: Consultas e análises com SQL
-
-**Status**: Não iniciado ⏳
+### 🔍 Desafio 3: Consultas e análises com SQL (⏳ Não iniciado)
 
 **Objetivo**: Criar consultas SQL para extrair informações relevantes de bancos de dados relacionais.
 
-**Descrição**: Os alunos deverão desenvolver consultas SQL para resolver problemas de negócios, incluindo junções complexas, subconsultas, funções de agregação e análise de dados temporais.
+**Descrição**: Desenvolvimento de consultas SQL para resolver problemas de negócios, incluindo junções complexas, subconsultas, funções de agregação e análise de dados temporais.
 
-### 🔍 Desafio 4: Análise exploratória com Python
-
-**Status**: Não iniciado ⏳
+### 🔍 Desafio 4: Análise exploratória com Python (⏳ Não iniciado)
 
 **Objetivo**: Realizar uma análise exploratória completa utilizando Python e suas bibliotecas de análise de dados.
 
-**Descrição**: Utilizando Pandas, NumPy, Matplotlib e Seaborn, os alunos deverão explorar um conjunto de dados, identificar padrões, realizar testes estatísticos e apresentar conclusões baseadas em dados.
+**Descrição**: Utilizando Pandas, NumPy, Matplotlib e Seaborn, exploração de um conjunto de dados, identificação de padrões, realização de testes estatísticos e apresentação de conclusões baseadas em dados.
 
-### 🔍 Desafio 5: Limpeza e preparação de dados
-
-**Status**: Não iniciado ⏳
+### 🔍 Desafio 5: Limpeza e preparação de dados (⏳ Não iniciado)
 
 **Objetivo**: Desenvolver um pipeline completo de limpeza e preparação de dados para análise.
 
-**Descrição**: Este desafio focará nas técnicas de data cleaning e wrangling, incluindo tratamento de valores ausentes, detecção de outliers, normalização de dados e engenharia de features.
+**Descrição**: Foco nas técnicas de data cleaning e wrangling, incluindo tratamento de valores ausentes, detecção de outliers, normalização de dados e engenharia de features.
 
-### 🔍 Desafio 6: Modelos de classificação e regressão
-
-**Status**: Não iniciado ⏳
+### 🔍 Desafio 6: Modelos de classificação e regressão (⏳ Não iniciado)
 
 **Objetivo**: Implementar e avaliar modelos de classificação e regressão para resolver problemas de negócios.
 
-**Descrição**: Os alunos deverão desenvolver modelos preditivos utilizando algoritmos de classificação e regressão, otimizar hiperparâmetros, avaliar o desempenho dos modelos e interpretar os resultados.
+**Descrição**: Desenvolvimento de modelos preditivos utilizando algoritmos de classificação e regressão, otimização de hiperparâmetros, avaliação do desempenho dos modelos e interpretação dos resultados.
 
-### 🔍 Desafio 7: Clusterização e sistemas de recomendação
-
-**Status**: Não iniciado ⏳
+### 🔍 Desafio 7: Clusterização e sistemas de recomendação (⏳ Não iniciado)
 
 **Objetivo**: Criar modelos de clusterização e sistemas de recomendação utilizando técnicas avançadas de machine learning.
 
-**Descrição**: Neste desafio final, os alunos implementarão algoritmos de clusterização para segmentação de clientes e desenvolverão sistemas de recomendação baseados em conteúdo e filtragem colaborativa, além de explorar conceitos de Big Data e implementação de modelos em ambientes de nuvem.
+**Descrição**: Implementação de algoritmos de clusterização para segmentação de clientes e desenvolvimento de sistemas de recomendação baseados em conteúdo e filtragem colaborativa, além de exploração de conceitos de Big Data e implementação de modelos em ambientes de nuvem.
+</details>
 
 ## 🛠️ Ferramentas e Tecnologias
+
+<details open>
+<summary><b>Stack Tecnológica</b></summary>
 
 - **Excel**: Análise de dados básica e intermediária
 - **Power BI**: Visualização e dashboards
@@ -328,40 +299,84 @@ O curso inclui 7 desafios práticos que aplicam os conceitos aprendidos em cada 
 - **Python**: Pandas, NumPy, Matplotlib, Scikit-learn
 - **IA e ML**: Modelos supervisionados e não-supervisionados
 - **Cloud**: AWS para implementação de modelos em produção
+</details>
 
----
+<details>
+<summary><b>Diagrama de Tecnologias</b> (Clique para expandir)</summary>
 
-**Nota**: Este repositório contém materiais de estudo do curso de Data Science da DNC e serve como portfólio de aprendizado e desenvolvimento de habilidades na área.
+```mermaid
+graph TD
+    A[Data Science] --> B[Análise de Dados]
+    A --> C[Machine Learning]
+    A --> D[Big Data]
+    
+    B --> E[Excel]
+    B --> F[SQL]
+    B --> G[Python - Pandas/NumPy]
+    B --> H[Visualização - Matplotlib/Seaborn]
+    
+    C --> I[Modelos Supervisionados]
+    C --> J[Modelos Não-Supervisionados]
+    C --> K[IA Aplicada]
+    
+    I --> L[Regressão]
+    I --> M[Classificação]
+    
+    J --> N[Clustering]
+    J --> O[Redução de Dimensionalidade]
+    
+    D --> P[Cloud Computing - AWS]
+    D --> Q[Processamento Distribuído]
+    
+    K --> R[AutoML]
+    K --> S[Deep Learning]
+```
+</details>
 
 ## 📝 Conteúdo do Repositório
 
-Este repositório está organizado da seguinte forma:
+<details open>
+<summary><b>Estrutura de Diretórios</b></summary>
 
 ```
 DNC_DataScience/
 ├── Materia_1-Introducao_AnaliseDeDados/
+│   ├── Aulas/
+│   └── Desafio_1/
 ├── Materia_2-Excel/
+│   ├── Aulas/
+│   └── Desafio_2/
 ├── Materia_3-SQL/
+│   ├── Aulas/
+│   └── Desafio_3/
 ├── Materia_4-Python_Analise/
+│   ├── Aulas/
+│   └── Desafio_4/
 ├── Materia_5-Extracao_Tratamento/
+│   ├── Aulas/
+│   └── Desafio_5/
 ├── Materia_6-Regressao_Classificacao/
+│   ├── Aulas/
+│   └── Desafio_6/
 ├── Materia_7-Modelos_Clusterizacao/
-├── images/
-│   ├── estrutura_curso.png
-│   └── data_science_workflow.png
+│   ├── Aulas/
+│   └── Desafio_7/
 ├── .gitignore
 └── README.md
 ```
-
-## 📈 Evolução das Habilidades
-
-<div align="center">
-<img src="https://github.com/user/DNC_DataScience/raw/main/images/skill_evolution.png" alt="Evolução das Habilidades" width="700"/>
-</div>
+</details>
 
 ## 🔄 Atualizações
 
 O repositório é atualizado regularmente com novos materiais e projetos conforme o avanço no curso. A nova estrutura curricular representa um aprimoramento significativo, com foco em tecnologias emergentes e demandas do mercado de trabalho.
+
+<details>
+<summary><b>📋 Log de Atualizações</b> (Clique para expandir)</summary>
+
+- **Março/2025**: Atualização do README com nova estrutura dinâmica
+- **Fevereiro/2025**: Conclusão do Desafio 1 - Dashboard de E-commerce
+- **Janeiro/2025**: Início do curso e configuração do repositório
+</details>
 
 ## 📫 Contato
 
@@ -369,13 +384,6 @@ Para dúvidas ou sugestões sobre este repositório, entre em contato através d
 
 ---
 
-**Nota**: Este repositório contém materiais de estudo do curso de Data Science da DNC e serve como portfólio de aprendizado e desenvolvimento de habilidades na área.
-
-
-
-
-
-
-
-
-
+<div align="center">
+  <p><b>Nota</b>: Este repositório contém materiais de estudo do curso de Data Science da DNC e serve como portfólio de aprendizado e desenvolvimento de habilidades na área.</p>
+</div>
