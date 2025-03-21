@@ -1,389 +1,385 @@
 # DNC_DataScience
 
 <div align="center">
-  <h3>Repositório de Estudos e Projetos em Data Science</h3>
-  <p><i>Materiais, exercícios e projetos desenvolvidos durante o curso da DNC</i></p>
+  <h3>Data Science Studies and Projects Repository</h3>
+  <p><i>Materials, exercises, and projects developed during the DNC course</i></p>
 </div>
 
 <p align="center">
-  <a href="#-visão-geral">Visão Geral</a> •
-  <a href="#-estrutura-do-curso">Estrutura</a> •
-  <a href="#-projetos-e-desafios">Projetos</a> •
-  <a href="#-ferramentas">Ferramentas</a> •
-  <a href="#-conteúdo">Conteúdo</a>
+  <a href="#-overview">Overview</a> •
+  <a href="#-course-structure">Structure</a> •
+  <a href="#-projects-and-challenges">Projects</a> •
+  <a href="#-tools-and-technologies">Tools</a> •
+  <a href="#-repository-content">Content</a>
 </p>
 
-## 🔍 Visão Geral
+## 🔍 Overview
 
-Este repositório documenta minha jornada de aprendizado em Data Science através do curso da DNC, incluindo códigos, projetos práticos e materiais de estudo. O conteúdo reflete tanto a matriz curricular original quanto a atualizada, oferecendo uma visão completa das habilidades desenvolvidas.
+This repository documents my learning journey in Data Science through the DNC course, including code, practical projects, and study materials. The content reflects both the original and updated curriculum, offering a complete view of the skills developed.
 
 <details>
-<summary><b>🌟 Sobre a atualização curricular</b> (Clique para expandir)</summary>
+<summary><b>🌟 About the curriculum update</b> (Click to expand)</summary>
 
-> **Observação importante**: Este repositório está em processo de atualização para refletir a nova matriz curricular. Os materiais de ambas as versões (original e atualizada) serão disponibilizados na medida do possível.
+> **Important note**: This repository is being updated to reflect the new curriculum. Materials from both versions (original and updated) will be made available as much as possible.
 
-### Por que essa atualização é importante?
+### Why is this update important?
 
-1️⃣ **Conteúdo alinhado com o mercado**
-- Módulos revisados para refletir tendências e exigências das empresas
-- Foco em habilidades práticas valorizadas pelos empregadores
+1️⃣ **Market-aligned content**
+- Modules completely revised to reflect industry trends and company requirements
+- Focus on practical skills valued by employers
 
-2️⃣ **Carga horária otimizada**
-- Maior profundidade em Python, IA, Estatística e Machine Learning
-- Distribuição de tempo baseada na relevância dos tópicos para o mercado atual
+2️⃣ **Optimized course hours**
+- Greater depth in Python, AI, Statistics, and Machine Learning
+- Time distribution based on the relevance of topics in today's market
 
-3️⃣ **Aprendizado prático e direcionado**
-- Cases reais de empresas para aplicação imediata dos conhecimentos
-- Materiais didáticos atualizados com as mais recentes ferramentas e técnicas
-- Projetos que simulam desafios reais do dia a dia de um cientista de dados
-
+3️⃣ **Practical and targeted learning**
+- Real company cases for immediate application of knowledge
+- Updated teaching materials with the latest tools and techniques
+- Projects that simulate real-world data scientist challenges
 </details>
 
-## 📚 Estrutura do Curso
+## 📚 Course Structure
 
 <details>
-<summary><b>📋 Matriz Curricular Original</b> (Clique para expandir)</summary>
+<summary><b>📋 Original Curriculum</b> (Click to expand)</summary>
 
-### Matéria 1: Introdução à Análise de Dados
-- **Base de Dados** (4h)
-- **Excel Intermediário** (8h)
+### Module 1: Introduction to Data Analysis
+- **Database Fundamentals** (4h)
+- **Intermediate Excel** (8h)
 - **Power BI** (8h)
-- **Desafio 1** (3h)
+- **Challenge 1** (3h)
 
-### Matéria 2: Power BI
-- **Carreira** (2h)
-- **Excel Intermediário** (8h)
-- **Desafio 2** (3h)
+### Module 2: Power BI
+- **Career Perspectives** (2h)
+- **Intermediate Excel** (8h)
+- **Challenge 2** (3h)
 
-### Matéria 3: SQL para Análise de Dados
-- **SQL para Análise de Dados** (8h)
-- **Desafio 3** (3h)
+### Module 3: SQL for Data Analysis
+- **SQL for Data Analysis** (8h)
+- **Challenge 3** (3h)
 
-### Matéria 4: Análise de Regressão em Python
-- **Introdução ao Python** (12h)
-- **Análise de Dados com Python** (6h)
+### Module 4: Regression Analysis in Python
+- **Introduction to Python** (12h)
+- **Data Analysis with Python** (6h)
 - **CRISP-DM** (11h)
-- **Desafio 4** (3h)
+- **Challenge 4** (3h)
 
-### Matéria 5: Extração e Tratamento em Python
-- **Data Cleaning e Wrangling** (8h)
-- **Desafio 5** (3h)
+### Module 5: Data Extraction and Processing in Python
+- **Data Cleaning and Wrangling** (8h)
+- **Challenge 5** (3h)
 
-### Matéria 6: Modelos de Classificação
-- **Regressão** (7h)
-- **Classificação** (5h)
-- **Desafio 6** (3h)
+### Module 6: Classification Models
+- **Regression** (7h)
+- **Classification** (5h)
+- **Challenge 6** (3h)
 
-### Matéria 7: Modelos de Clusterização
+### Module 7: Clustering Models
 - **Clustering** (7h)
-- **Sistemas de Recomendação** (6h)
+- **Recommendation Systems** (6h)
 - **Big Data** (5h)
-- **Modelos** (3h)
-- **Desafio 7** (3h)
+- **Models** (3h)
+- **Challenge 7** (3h)
 </details>
 
 <details open>
-<summary><b>🚀 Nova Matriz Curricular Atualizada</b> (Atual)</summary>
+<summary><b>🚀 Updated Curriculum</b> (Current)</summary>
 
-### Matéria 1: Introdução à Análise de Dados
-- **Introdução a Dados** (2h): Conceitos fundamentais, estrutura e qualidade de dados
-- **Base de Dados** (4h): Fundamentos de bancos de dados e estruturação de dados
-- **Excel Intermediário** (8h): Funções avançadas, fórmulas, tabelas dinâmicas e visualizações
-- **Desafio 1** (3h): Aplicação dos conhecimentos em problemas reais
+### Module 1: Introduction to Data Analysis
+- **Introduction to Data** (2h): Fundamental concepts, data structure, and quality
+- **Database Fundamentals** (4h): Database foundations and data structuring
+- **Intermediate Excel** (8h): Advanced functions, formulas, pivot tables, and visualizations
+- **Challenge 1** (3h): Applying knowledge to real-world problems
 
-### Matéria 2: Excel
-- **Carreira** (2h): Perspectivas profissionais em análise de dados
-- **Excel Intermediário** (8h): Funções avançadas e análise de dados
-- **Desafio 2** (3h): Projeto prático com Excel
+### Module 2: Excel
+- **Career Perspectives** (2h): Professional opportunities in data analysis
+- **Intermediate Excel** (8h): Advanced functions and data analysis
+- **Challenge 2** (3h): Practical Excel project
 
-### Matéria 3: SQL para Análise de Dados
-- **SQL para Análise de Dados** (8h): Consultas, junções e análises
-- **Desafio 3** (3h): Projeto prático de análise com SQL
+### Module 3: SQL for Data Analysis
+- **SQL for Data Analysis** (8h): Queries, joins, and analysis
+- **Challenge 3** (3h): Practical SQL analysis project
 
-### Matéria 4: Análise de Dados em Python
-- **Introdução ao Python** (9h): Configuração do ambiente, estruturação de código
-- **Análise de Dados com Python** (6h): Uso avançado de Pandas, NumPy, Matplotlib e Seaborn
-- **Estatística Descritiva** (5h): Organização, resumo e análise exploratória de dados
-- **Estatística Inferencial** (8h): Amostragem, distribuições de probabilidade, testes de hipóteses
-- **IA para análise de Dados** (2h): Automação com Python e SQL
-- **Desafio 4** (3h): Projeto de análise de dados com Python
+### Module 4: Data Analysis in Python
+- **Introduction to Python** (9h): Environment setup, code structuring
+- **Data Analysis with Python** (6h): Advanced use of Pandas, NumPy, Matplotlib, and Seaborn
+- **Descriptive Statistics** (5h): Data organization, summarization, and exploratory analysis
+- **Inferential Statistics** (8h): Sampling, probability distributions, hypothesis testing
+- **AI for Data Analysis** (2h): Automation with Python and SQL
+- **Challenge 4** (3h): Python data analysis project
 
-### Matéria 5: Extração e Tratamento em Python
-- **Data Cleaning e Wrangling** (8h): Coleta, limpeza e integração de dados de múltiplas fontes
-- **Introdução a ML** (2h): Fundamentos de aprendizado supervisionado e não supervisionado
-- **Desafio 5** (3h): Projeto de tratamento de dados reais
+### Module 5: Data Extraction and Processing in Python
+- **Data Cleaning and Wrangling** (8h): Collection, cleaning, and integration of data from multiple sources
+- **Introduction to ML** (2h): Fundamentals of supervised and unsupervised learning
+- **Challenge 5** (3h): Real data processing project
 
-### Matéria 6: Regressão e Classificação
-- **Regressão** (8h): Implementação e avaliação de diferentes tipos de regressão
-- **Classificação** (8h): Técnicas de classificação desde a coleta até a implementação
-- **IA para ciência de Dados** (2h): IA para resolver problemas relacionados a modelos avançados
-- **Desafio 6** (3h): Implementação de modelos de classificação e regressão
+### Module 6: Regression and Classification
+- **Regression** (8h): Implementation and evaluation of different regression types
+- **Classification** (8h): Classification techniques from data collection to implementation
+- **AI for Data Science** (2h): AI solutions for advanced model-related problems
+- **Challenge 6** (3h): Implementation of classification and regression models
 
-### Matéria 7: Modelos de Clusterização
-- **Clustering** (7h): Técnicas de agrupamento não supervisionado
-- **Big Data** (5h): Conceitos e ferramentas para grandes volumes de dados
-- **Modelos com IA e Cloud** (6h): Implementação de modelos de ML utilizando AWS
-- **Desafio 7** (3h): Projeto final de clusterização
+### Module 7: Clustering Models
+- **Clustering** (7h): Unsupervised grouping techniques
+- **Big Data** (5h): Concepts and tools for large data volumes
+- **Models with AI and Cloud** (6h): Implementation of ML models using AWS
+- **Challenge 7** (3h): Final clustering project
 </details>
 
 <details>
-<summary><b>✨ Módulos Novos</b> (Clique para expandir)</summary>
+<summary><b>✨ New Modules</b> (Click to expand)</summary>
 
-1. **Introdução a Dados** (2h)
-   - Conceitos fundamentais e estrutura de dados
-   - Qualidade de dados e ferramentas essenciais
-   - Rotina dos profissionais de dados
+1. **Introduction to Data** (2h)
+   - Fundamental concepts and data structure
+   - Data quality and essential tools
+   - Data professionals' routine
 
-2. **Estatística Descritiva** (5h)
-   - Organização e resumo de dados
-   - Análise exploratória com medidas estatísticas
-   - Técnicas de visualização de dados
+2. **Descriptive Statistics** (5h)
+   - Data organization and summarization
+   - Exploratory analysis with statistical measures
+   - Data visualization techniques
 
-3. **Estatística Inferencial** (8h)
-   - Seleção de amostras e distribuições de probabilidade
-   - Intervalos de confiança e testes de hipóteses
-   - Análise de relações entre variáveis
+3. **Inferential Statistics** (8h)
+   - Sample selection and probability distributions
+   - Confidence intervals and hypothesis testing
+   - Analysis of relationships between variables
 
-4. **IA para Análise de Dados** (2h)
-   - Automação de análises com Python e SQL
-   - Técnicas de IA aplicadas à análise de dados
+4. **AI for Data Analysis** (2h)
+   - Analysis automation with Python and SQL
+   - AI techniques applied to data analysis
 
-5. **Introdução a ML** (2h)
-   - Fundamentos de aprendizado supervisionado e não supervisionado
-   - Preparação de dados para machine learning
+5. **Introduction to ML** (2h)
+   - Fundamentals of supervised and unsupervised learning
+   - Data preparation for machine learning
 
-6. **IA para Ciência de Dados** (2h)
-   - Aplicações de IA para modelos avançados
-   - Otimização de regressão e classificação com IA
+6. **AI for Data Science** (2h)
+   - AI applications for advanced models
+   - Optimization of regression and classification with AI
 
-7. **Modelos com IA e Cloud** (6h)
-   - Implementação de modelos de ML na AWS
-   - Desenvolvimento de pipelines escaláveis
-   - Integração de IA e computação em nuvem
+7. **Models with AI and Cloud** (6h)
+   - Implementation of ML models in AWS
+   - Development of scalable pipelines
+   - Integration of AI and cloud computing
 </details>
 
 <details>
-<summary><b>🔄 Módulos Regravados e Aprimorados</b> (Clique para expandir)</summary>
+<summary><b>🔄 Revised and Enhanced Modules</b> (Click to expand)</summary>
 
-1. **Introdução a Python** (9h)
-   - Configuração do ambiente de desenvolvimento
-   - Estruturação de código e boas práticas
-   - Manipulação de listas e variáveis compostas
-   - Projetos práticos com Pandas e NumPy
+1. **Introduction to Python** (9h)
+   - Development environment setup
+   - Code structuring and best practices
+   - List manipulation and composite variables
+   - Practical projects with Pandas and NumPy
 
-2. **Análise de Dados com Python** (6h)
-   - Uso avançado de Pandas e NumPy
-   - Visualização com Matplotlib e Seaborn
-   - Identificação de padrões em dados
+2. **Data Analysis with Python** (6h)
+   - Advanced use of Pandas and NumPy
+   - Visualization with Matplotlib and Seaborn
+   - Pattern identification in data
 
-3. **Data Cleaning e Wrangling** (8h)
-   - Coleta e integração de dados de múltiplas fontes
-   - Técnicas de limpeza e garantia de qualidade
-   - Engenharia de features para modelagem preditiva
-   - Otimização do fluxo de trabalho com grandes volumes
+3. **Data Cleaning and Wrangling** (8h)
+   - Collection and integration of data from multiple sources
+   - Cleaning techniques and quality assurance
+   - Feature engineering for predictive modeling
+   - Workflow optimization with large volumes
 
-4. **Classificação** (8h)
-   - Coleta e preparação de dados para classificação
-   - Seleção, treinamento e ajuste de modelos
-   - Validação e implementação de classificadores
+4. **Classification** (8h)
+   - Data collection and preparation for classification
+   - Model selection, training, and tuning
+   - Classifier validation and implementation
 
-5. **Regressão** (8h)
-   - Regressão linear simples e múltipla
-   - Otimização de hiperparâmetros
-   - Avaliação e implementação de modelos de regressão
+5. **Regression** (8h)
+   - Simple and multiple linear regression
+   - Hyperparameter optimization
+   - Evaluation and implementation of regression models
 </details>
 
-## 📊 Projetos e Desafios
+## 📊 Projects and Challenges
 
 <details open>
-<summary><b>Visão Geral dos Desafios</b></summary>
+<summary><b>Challenges Overview</b></summary>
 
-O curso inclui 7 desafios práticos que aplicam os conceitos aprendidos em cada módulo, permitindo consolidar conhecimentos e desenvolver projetos para o portfólio.
+The course includes 7 practical challenges that apply concepts learned in each module, allowing students to consolidate knowledge and develop portfolio projects.
 
-| # | Desafio | Status | Tecnologias |
+| # | Challenge | Status | Technologies |
 |---|---------|--------|-------------|
-| 1 | Dashboard de E-commerce | ✅ Concluído | Power BI, DAX |
-| 2 | Análise Avançada com Excel | ⏳ Não iniciado | Excel, Funções Avançadas |
-| 3 | Consultas e Análises SQL | ⏳ Não iniciado | SQL, Banco de Dados |
-| 4 | Análise Exploratória com Python | ⏳ Não iniciado | Python, Pandas, Matplotlib |
-| 5 | Pipeline de Limpeza de Dados | ⏳ Não iniciado | Python, Pandas |
-| 6 | Modelos de Classificação e Regressão | ⏳ Não iniciado | Scikit-learn, Python |
-| 7 | Clusterização e Recomendação | ⏳ Não iniciado | Python, AWS, ML |
+| 1 | E-commerce Dashboard | ✅ Completed | Power BI, DAX |
+| 2 | Advanced Excel Analysis | ⏳ Not started | Excel, Advanced Functions |
+| 3 | SQL Queries and Analysis | ⏳ Not started | SQL, Databases |
+| 4 | Exploratory Analysis with Python | ⏳ Not started | Python, Pandas, Matplotlib |
+| 5 | Data Cleaning Pipeline | ⏳ Not started | Python, Pandas |
+| 6 | Classification and Regression Models | ⏳ Not started | Scikit-learn, Python |
+| 7 | Clustering and Recommendation | ⏳ Not started | Python, AWS, ML |
 
 </details>
 
 <details>
-<summary><b>🔍 Desafio 1: Dashboard de E-commerce no Power BI</b> (Concluído ✅)</summary>
+<summary><b>🔍 Challenge 1: E-commerce Dashboard in Power BI</b> (Completed ✅)</summary>
 
-**Objetivo**: Criar um dashboard no Power BI para analisar os resultados de um e-commerce e prever tendências futuras.
+**Objective**: Create a Power BI dashboard to analyze e-commerce results and predict future trends.
 
-**Descrição**: Neste desafio, desenvolvi um dashboard interativo no Power BI para analisar dados de vendas de um e-commerce. O arquivo RID190616_Desafio01.pbix contém a solução desenvolvida, que inclui:
+**Description**: In this challenge, I developed an interactive Power BI dashboard to analyze e-commerce sales data. The RID190616_Desafio01.pbix file contains the developed solution, which includes:
 
-1) **Análise de vendas por período**:
-   - Visualização de tendências temporais
-   - Comparação de desempenho entre diferentes períodos
+1) **Sales analysis by period**:
+   - Visualization of temporal trends
+   - Performance comparison between different periods
 
-2) **Segmentação de clientes**:
-   - Análise por região geográfica
-   - Categorização por comportamento de compra
+2) **Customer segmentation**:
+   - Analysis by geographic region
+   - Categorization by purchasing behavior
 
-3) **Performance de produtos**:
-   - Identificação dos produtos mais vendidos
-   - Análise de margens de lucro por categoria
+3) **Product performance**:
+   - Identification of best-selling products
+   - Profit margin analysis by category
 
-4) **Indicadores de desempenho (KPIs)**:
-   - Taxa de conversão
-   - Ticket médio
-   - Faturamento total
+4) **Key Performance Indicators (KPIs)**:
+   - Conversion rate
+   - Average ticket
+   - Total revenue
 
-5) **Previsões futuras**:
-   - Utilização de ferramentas de análise preditiva do Power BI
-   - Projeção de vendas para os próximos períodos
+5) **Future forecasts**:
+   - Use of Power BI predictive analysis tools
+   - Sales projection for upcoming periods
 
-**Habilidades desenvolvidas**:
-- Importação e tratamento de dados no Power BI
-- Criação de medidas e cálculos avançados com DAX
-- Desenvolvimento de visualizações interativas
-- Implementação de modelos preditivos simples
-- Apresentação de insights de negócios
+**Skills developed**:
+- Data import and processing in Power BI
+- Creation of measures and advanced calculations with DAX
+- Development of interactive visualizations
+- Implementation of simple predictive models
+- Presentation of business insights
 </details>
 
 <details>
-<summary><b>🔍 Desafios 2-7</b> (Clique para expandir)</summary>
+<summary><b>🔍 Challenges 2-7</b> (Click to expand)</summary>
 
-### 🔍 Desafio 2: Análise avançada com Excel (⏳ Não iniciado)
+### 🔍 Challenge 2: Advanced Analysis with Excel (⏳ Not started)
 
-**Objetivo**: Desenvolver análises complexas utilizando recursos avançados do Excel.
+**Objective**: Develop complex analyses using advanced Excel features.
 
-**Descrição**: Este desafio envolverá o uso de funções avançadas do Excel, como PROCV, SOMASE, tabelas dinâmicas, e ferramentas de análise estatística para extrair insights de conjuntos de dados empresariais.
+**Description**: This challenge will involve using advanced Excel functions such as VLOOKUP, SUMIF, pivot tables, and statistical analysis tools to extract insights from business datasets.
 
-### 🔍 Desafio 3: Consultas e análises com SQL (⏳ Não iniciado)
+### 🔍 Challenge 3: SQL Queries and Analysis (⏳ Not started)
 
-**Objetivo**: Criar consultas SQL para extrair informações relevantes de bancos de dados relacionais.
+**Objective**: Create SQL queries to extract relevant information from relational databases.
 
-**Descrição**: Desenvolvimento de consultas SQL para resolver problemas de negócios, incluindo junções complexas, subconsultas, funções de agregação e análise de dados temporais.
+**Description**: Development of SQL queries to solve business problems, including complex joins, subqueries, aggregation functions, and temporal data analysis.
 
-### 🔍 Desafio 4: Análise exploratória com Python (⏳ Não iniciado)
+### 🔍 Challenge 4: Exploratory Analysis with Python (⏳ Not started)
 
-**Objetivo**: Realizar uma análise exploratória completa utilizando Python e suas bibliotecas de análise de dados.
+**Objective**: Conduct a complete exploratory analysis using Python and its data analysis libraries.
 
-**Descrição**: Utilizando Pandas, NumPy, Matplotlib e Seaborn, exploração de um conjunto de dados, identificação de padrões, realização de testes estatísticos e apresentação de conclusões baseadas em dados.
+**Description**: Using Pandas, NumPy, Matplotlib, and Seaborn to explore a dataset, identify patterns, perform statistical tests, and present data-driven conclusions.
 
-### 🔍 Desafio 5: Limpeza e preparação de dados (⏳ Não iniciado)
+### 🔍 Challenge 5: Data Cleaning and Preparation (⏳ Not started)
 
-**Objetivo**: Desenvolver um pipeline completo de limpeza e preparação de dados para análise.
+**Objective**: Develop a complete data cleaning and preparation pipeline for analysis.
 
-**Descrição**: Foco nas técnicas de data cleaning e wrangling, incluindo tratamento de valores ausentes, detecção de outliers, normalização de dados e engenharia de features.
+**Description**: Focus on data cleaning and wrangling techniques, including handling missing values, outlier detection, data normalization, and feature engineering.
 
-### 🔍 Desafio 6: Modelos de classificação e regressão (⏳ Não iniciado)
+### 🔍 Challenge 6: Classification and Regression Models (⏳ Not started)
 
-**Objetivo**: Implementar e avaliar modelos de classificação e regressão para resolver problemas de negócios.
+**Objective**: Implement and evaluate classification and regression models to solve business problems.
 
-**Descrição**: Desenvolvimento de modelos preditivos utilizando algoritmos de classificação e regressão, otimização de hiperparâmetros, avaliação do desempenho dos modelos e interpretação dos resultados.
+**Description**: Development of predictive models using classification and regression algorithms, hyperparameter optimization, model performance evaluation, and results interpretation.
 
-### 🔍 Desafio 7: Clusterização e sistemas de recomendação (⏳ Não iniciado)
+### 🔍 Challenge 7: Clustering and Recommendation Systems (⏳ Not started)
 
-**Objetivo**: Criar modelos de clusterização e sistemas de recomendação utilizando técnicas avançadas de machine learning.
+**Objective**: Create clustering models and recommendation systems using advanced machine learning techniques.
 
-**Descrição**: Implementação de algoritmos de clusterização para segmentação de clientes e desenvolvimento de sistemas de recomendação baseados em conteúdo e filtragem colaborativa, além de exploração de conceitos de Big Data e implementação de modelos em ambientes de nuvem.
+**Description**: Implementation of clustering algorithms for customer segmentation and development of content-based and collaborative filtering recommendation systems, plus exploration of Big Data concepts and model implementation in cloud environments.
 </details>
 
-## 🛠️ Ferramentas e Tecnologias
+## 🛠️ Tools and Technologies
 
 <details open>
-<summary><b>Stack Tecnológica</b></summary>
+<summary><b>Technology Stack</b></summary>
 
-- **Excel**: Análise de dados básica e intermediária
-- **Power BI**: Visualização e dashboards
-- **SQL**: Consultas e análises em bancos de dados
+- **Excel**: Basic and intermediate data analysis
+- **Power BI**: Visualization and dashboards
+- **SQL**: Database queries and analysis
 - **Python**: Pandas, NumPy, Matplotlib, Scikit-learn
-- **IA e ML**: Modelos supervisionados e não-supervisionados
-- **Cloud**: AWS para implementação de modelos em produção
+- **AI and ML**: Supervised and unsupervised models
+- **Cloud**: AWS for production model implementation
 </details>
 
 <details>
-<summary><b>Diagrama de Tecnologias</b> (Clique para expandir)</summary>
+<summary><b>Technology Diagram</b> (Click to expand)</summary>
 
 ```mermaid
 graph TD
-    A[Data Science] --> B[Análise de Dados]
+    A[Data Science] --> B[Data Analysis]
     A --> C[Machine Learning]
     A --> D[Big Data]
     
     B --> E[Excel]
     B --> F[SQL]
     B --> G[Python - Pandas/NumPy]
-    B --> H[Visualização - Matplotlib/Seaborn]
+    B --> H[Visualization - Matplotlib/Seaborn]
     
-    C --> I[Modelos Supervisionados]
-    C --> J[Modelos Não-Supervisionados]
-    C --> K[IA Aplicada]
+    C --> I[Supervised Models]
+    C --> J[Unsupervised Models]
+    C --> K[Applied AI]
     
-    I --> L[Regressão]
-    I --> M[Classificação]
+    I --> L[Regression]
+    I --> M[Classification]
     
     J --> N[Clustering]
-    J --> O[Redução de Dimensionalidade]
+    J --> O[Dimensionality Reduction]
     
     D --> P[Cloud Computing - AWS]
-    D --> Q[Processamento Distribuído]
+    D --> Q[Distributed Processing]
     
     K --> R[AutoML]
     K --> S[Deep Learning]
 ```
 </details>
 
-## 📝 Conteúdo do Repositório
+## 📝 Repository Content
 
 <details open>
-<summary><b>Estrutura de Diretórios</b></summary>
+<summary><b>Directory Structure</b></summary>
 
 ```
 DNC_DataScience/
+├── Desafios/
+│   └── Módulo 01/
+│       └── Desafio/
 ├── Materia_1-Introducao_AnaliseDeDados/
-│   ├── Aulas/
-│   └── Desafio_1/
-├── Materia_2-Excel/
-│   ├── Aulas/
-│   └── Desafio_2/
+│   └── Aulas/
+├── Materia_2-PowerBi/
+│   └── Aulas/
 ├── Materia_3-SQL/
-│   ├── Aulas/
-│   └── Desafio_3/
+│   └── Aulas/
 ├── Materia_4-Python_Analise/
-│   ├── Aulas/
-│   └── Desafio_4/
+│   └── Aulas/
 ├── Materia_5-Extracao_Tratamento/
-│   ├── Aulas/
-│   └── Desafio_5/
+│   └── Aulas/
 ├── Materia_6-Regressao_Classificacao/
-│   ├── Aulas/
-│   └── Desafio_6/
+│   └── Aulas/
 ├── Materia_7-Modelos_Clusterizacao/
-│   ├── Aulas/
-│   └── Desafio_7/
+│   └── Aulas/
 ├── .gitignore
 └── README.md
+
 ```
 </details>
 
-## 🔄 Atualizações
+## 🔄 Updates
 
-O repositório é atualizado regularmente com novos materiais e projetos conforme o avanço no curso. A nova estrutura curricular representa um aprimoramento significativo, com foco em tecnologias emergentes e demandas do mercado de trabalho.
+This repository is regularly updated with new materials and projects as I progress through the course. The new curriculum structure represents a significant enhancement, focusing on emerging technologies and job market demands.
 
 <details>
-<summary><b>📋 Log de Atualizações</b> (Clique para expandir)</summary>
+<summary><b>📋 Update Log</b> (Click to expand)</summary>
 
-- **Março/2025**: Atualização do README com nova estrutura dinâmica
-- **Fevereiro/2025**: Conclusão do Desafio 1 - Dashboard de E-commerce
-- **Janeiro/2025**: Início do curso e configuração do repositório
+- **March/2025**: README update with new dynamic structure
+- **February/2025**: Completion of Challenge 1 - E-commerce Dashboard
+- **January/2025**: Course start and repository setup
 </details>
 
-## 📫 Contato
+## 📫 Contact
 
-Para dúvidas ou sugestões sobre este repositório, entre em contato através do GitHub.
+For questions or suggestions about this repository, please contact me through GitHub.
 
 ---
 
 <div align="center">
-  <p><b>Nota</b>: Este repositório contém materiais de estudo do curso de Data Science da DNC e serve como portfólio de aprendizado e desenvolvimento de habilidades na área.</p>
+  <p><b>Note</b>: This repository contains study materials from the DNC Data Science course and serves as a portfolio for learning and skill development in the field.</p>
 </div>
