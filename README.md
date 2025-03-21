@@ -6,6 +6,47 @@ Repositório do curso de Data Science da DNC, contendo materiais, exercícios e 
 
 O curso está organizado em 7 módulos principais, cada um focando em diferentes aspectos da ciência de dados:
 
+### 📋 Matriz Curricular Original
+
+#### Matéria 1: Introdução à Análise de Dados
+- **Base de Dados** (4h)
+- **Excel Intermediário** (8h)
+- **Power BI** (8h)
+- **Desafio 1** (3h)
+
+#### Matéria 2: Power BI
+- **Carreira** (2h)
+- **Excel Intermediário** (8h)
+- **Desafio 2** (3h)
+
+#### Matéria 3: SQL para Análise de Dados
+- **SQL para Análise de Dados** (8h)
+- **Desafio 3** (3h)
+
+#### Matéria 4: Análise de Regressão em Python
+- **Introdução ao Python** (12h)
+- **Análise de Dados com Python** (6h)
+- **CRISP-DM** (11h)
+- **Desafio 4** (3h)
+
+#### Matéria 5: Extração e Tratamento em Python
+- **Data Cleaning e Wrangling** (8h)
+- **Desafio 5** (3h)
+
+#### Matéria 6: Modelos de Classificação
+- **Regressão** (7h)
+- **Classificação** (5h)
+- **Desafio 6** (3h)
+
+#### Matéria 7: Modelos de Clusterização
+- **Clustering** (7h)
+- **Sistemas de Recomendação** (6h)
+- **Big Data** (5h)
+- **Modelos** (3h)
+- **Desafio 7** (3h)
+
+### 🚀 Nova Matriz Curricular Atualizada
+
 ### Matéria 1: Introdução à Análise de Dados
 - **Introdução a Dados** (2h): Conceitos fundamentais, estrutura e qualidade de dados
 - **Base de Dados** (4h): Fundamentos de bancos de dados e estruturação de dados
@@ -131,6 +172,35 @@ O curso está organizado em 7 módulos principais, cada um focando em diferentes
 - Cases reais de empresas para aplicação imediata dos conhecimentos
 - Materiais didáticos atualizados com as mais recentes ferramentas e técnicas
 - Projetos que simulam desafios reais do dia a dia de um cientista de dados
+
+## 🔄 Sobre a Atualização da Matriz Curricular
+
+> **Observação importante**: Este repositório está em processo de atualização para refletir a nova matriz curricular. Os materiais de ambas as versões (original e atualizada) serão disponibilizados na medida do possível, permitindo acesso ao conteúdo completo do curso.
+
+```mermaid
+graph TD
+    A[Atualização da Matriz Curricular] --> B[Módulos Novos]
+    A --> C[Módulos Regravados]
+    A --> D[Benefícios]
+    
+    B --> B1[Introdução a Dados]
+    B --> B2[Estatística Descritiva]
+    B --> B3[Estatística Inferencial]
+    B --> B4[IA para Análise de Dados]
+    B --> B5[Introdução a ML]
+    B --> B6[IA para Ciência de Dados]
+    B --> B7[Modelos com IA e Cloud]
+    
+    C --> C1[Introdução a Python]
+    C --> C2[Análise de Dados com Python]
+    C --> C3[Data Cleaning e Wrangling]
+    C --> C4[Classificação]
+    C --> C5[Regressão]
+    
+    D --> D1[Conteúdo atualizado com o mercado]
+    D --> D2[Carga horária maior nos tópicos relevantes]
+    D --> D3[Aprendizado prático e direcionado]
+```
 
 ## 🛠️ Ferramentas e Tecnologias
 
@@ -300,3 +370,12 @@ Para dúvidas ou sugestões sobre este repositório, entre em contato através d
 ---
 
 **Nota**: Este repositório contém materiais de estudo do curso de Data Science da DNC e serve como portfólio de aprendizado e desenvolvimento de habilidades na área.
+
+
+
+
+
+
+
+
+
