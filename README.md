@@ -81,8 +81,8 @@ This repository documents my learning journey in Data Science through the DNC co
 - **Challenge 7** (3h)
 </details>
 
-<details open>
-<summary><b>🚀 Updated Curriculum</b> (Current)</summary>
+<details>
+<summary><b>🚀 Updated Curriculum</b> (Click to expand)</summary>
 
 ### Module 1: Introduction to Data Analysis
 - **Introduction to Data** (2h): Fundamental concepts, data structure, and quality
