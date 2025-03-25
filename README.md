@@ -402,4 +402,3 @@ For questions or suggestions about this repository, please contact me through Gi
 <div align="center">
   <p><b>Note</b>: This repository contains study materials from the DNC Data Science course and serves as a portfolio for learning and skill development in the field.</p>
 </div>
-```
