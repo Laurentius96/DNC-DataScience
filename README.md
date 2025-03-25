@@ -10,7 +10,8 @@
   <a href="#-course-structure">Structure</a> •
   <a href="#-projects-and-challenges">Projects</a> •
   <a href="#-tools-and-technologies">Tools</a> •
-  <a href="#-repository-content">Content</a>
+  <a href="#-repository-content">Content</a> •
+  <a href="#-license">License</a>
 </p>
 
 ## 🔍 Overview
@@ -357,6 +358,7 @@ DNC_DataScience/
 ├── Materia_7-Modelos_Clusterizacao/
 │   └── Aulas/
 ├── .gitignore
+├── LICENSE.md
 └── README.md
 
 ```
@@ -374,6 +376,23 @@ This repository is regularly updated with new materials and projects as I progre
 - **January/2025**: Course start and repository setup
 </details>
 
+## 📜 License
+
+<details open>
+<summary><b>CC BY-NC-ND 4.0 License</b></summary>
+
+This repository is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+### What this means:
+
+- ✅ **You can share** — You are free to copy and redistribute the material in any medium or format
+- ❌ **No commercial use** — You may not use the material for commercial purposes
+- ❌ **No derivatives** — You may not remix, transform, or build upon the material
+- ✅ **Attribution required** — You must give appropriate credit, provide a link to the license, and indicate if changes were made
+
+For the complete license terms, please see the [LICENSE.md](LICENSE.md) file.
+</details>
+
 ## 📫 Contact
 
 For questions or suggestions about this repository, please contact me through GitHub.
@@ -383,3 +402,14 @@ For questions or suggestions about this repository, please contact me through Gi
 <div align="center">
   <p><b>Note</b>: This repository contains study materials from the DNC Data Science course and serves as a portfolio for learning and skill development in the field.</p>
 </div>
+```
+
+Adicionei uma nova seção de licença que:
+
+1. Mantém a estrutura e o estilo visual do seu README original
+2. Inclui um link para o arquivo LICENSE.md
+3. Resume os pontos principais da licença CC BY-NC-ND 4.0 de forma clara e visual
+4. Está posicionada logicamente na estrutura do documento, antes da seção de contato
+5. Também adicionei a referência ao arquivo LICENSE.md na estrutura de diretórios
+
+Além disso, adicionei um link para a seção de licença na navegação no topo do documento para facilitar o acesso.
