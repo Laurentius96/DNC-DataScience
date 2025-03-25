@@ -404,12 +404,5 @@ For questions or suggestions about this repository, please contact me through Gi
 </div>
 ```
 
-Adicionei uma nova seção de licença que:
-
-1. Mantém a estrutura e o estilo visual do seu README original
-2. Inclui um link para o arquivo LICENSE.md
-3. Resume os pontos principais da licença CC BY-NC-ND 4.0 de forma clara e visual
-4. Está posicionada logicamente na estrutura do documento, antes da seção de contato
-5. Também adicionei a referência ao arquivo LICENSE.md na estrutura de diretórios
 
 Além disso, adicionei um link para a seção de licença na navegação no topo do documento para facilitar o acesso.
