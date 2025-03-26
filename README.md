@@ -373,7 +373,7 @@ This repository is regularly updated with new materials and projects as I progre
 
 - **March/2025**: README update with new dynamic structure
 - **February/2025**: Completion of Challenge 1 - E-commerce Dashboard
-- **January/2025**: Course start and repository setup
+- **February/2025**: Course start and repository setup
 </details>
 
 ## 📜 License
