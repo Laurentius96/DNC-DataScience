@@ -1,4 +1,4 @@
-# DNC_DataScience
+<div align="center">  <h1> DNC | Data Science </div>
 
 <div align="center">
   <h3>Data Science Studies and Projects Repository</h3>
