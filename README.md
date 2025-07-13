@@ -394,22 +394,22 @@ graph TD
 ```
 DNC_DataScience/
 ├── Desafios/
-│   └── Módulo 01/
-│       └── Desafio/
+│   Módulo 01/
+│       └── Desafio 01/
+|   Módulo 02/
+│       └── Desafio 02/
 ├── Materia_1-Introducao_AnaliseDeDados/
-│   └── Aulas/
+│       └── Material/
 ├── Materia_2-PowerBi/
-│   └── Aulas/
-├── Materia_3-SQL/
-│   └── Aulas/
-├── Materia_4-Python_Analise/
-│   └── Aulas/
-├── Materia_5-Extracao_Tratamento/
-│   └── Aulas/
-├── Materia_6-Regressao_Classificacao/
-│   └── Aulas/
-├── Materia_7-Modelos_Clusterizacao/
-│   └── Aulas/
+│   Excel/
+│       └── Aulas/
+|   PowerBI/
+│       └── Aulas/
+├── Materia_6-Python/
+│   Aulas/
+|   Cases/
+│       └── Contact_Book/
+│       └── Lista_De_Tarefas_Com_Prioridade/
 ├── .gitignore
 ├── LICENSE.md
 └── README.md
@@ -424,9 +424,12 @@ This repository is regularly updated with new materials and projects as I progre
 <details>
 <summary><b>📋 Update Log</b> (Click to expand)</summary>
 
+- **July/2025**: README update with new dynamic structure
+- **July/2025**: Completion of Challenge 2 - Structuring Company's Stock
 - **March/2025**: README update with new dynamic structure
 - **February/2025**: Completion of Challenge 1 - E-commerce Dashboard
 - **February/2025**: Course start and repository setup
+  
 </details>
 
 ## 📜 License
