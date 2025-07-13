@@ -424,7 +424,7 @@ This repository is regularly updated with new materials and projects as I progre
 <details>
 <summary><b>📋 Update Log</b> (Click to expand)</summary>
 
-- **July/2025**: README update with new dynamic structure
+- **July/2025**: README update
 - **July/2025**: Completion of Challenge 2 - Structuring Company's Stock
 - **March/2025**: README update with new dynamic structure
 - **February/2025**: Completion of Challenge 1 - E-commerce Dashboard
