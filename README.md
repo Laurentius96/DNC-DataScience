@@ -203,7 +203,7 @@ The course includes 7 practical challenges that apply concepts learned in each m
 | # | Challenge | Status | Technologies |
 |---|---------|--------|-------------|
 | 1 | E-commerce Dashboard | ✅ Completed | Power BI, DAX |
-| 2 | Advanced Excel Analysis | ⏳ Not started | Excel, Advanced Functions |
+| 2 | Structuring Company-s Stock | ✅ Completed | Excel, Advanced Functions |
 | 3 | SQL Queries and Analysis | ⏳ Not started | SQL, Databases |
 | 4 | Exploratory Analysis with Python | ⏳ Not started | Python, Pandas, Matplotlib |
 | 5 | Data Cleaning Pipeline | ⏳ Not started | Python, Pandas |
@@ -213,7 +213,9 @@ The course includes 7 practical challenges that apply concepts learned in each m
 </details>
 
 <details>
-<summary><b>🔍 Challenge 1: E-commerce Dashboard in Power BI</b> (Completed ✅)</summary>
+<summary><b>🔍 Challenge 1: E-commerce Dashboard in Power BI</b> (Completed ✅) - (Click to expand) </summary> 
+
+<br>
 
 **Objective**: Create a Power BI dashboard to analyze e-commerce results and predict future trends.
 
@@ -248,15 +250,66 @@ The course includes 7 practical challenges that apply concepts learned in each m
 - Presentation of business insights
 </details>
 
-<details>
-<summary><b>🔍 Challenges 2-7</b> (Click to expand)</summary>
 
-### 🔍 Challenge 2: Advanced Analysis with Excel (⏳ Not started)
+<details>
+<summary><b>🔍 Challenge 2: Structuring Company's Stock</b> (Completed ✅) - (Click to expand)</summary>
+
+<br>
 
 **Objective**: Develop complex analyses using advanced Excel features.
 
-**Description**: This challenge will involve using advanced Excel functions such as VLOOKUP, SUMIF, pivot tables, and statistical analysis tools to extract insights from business datasets.
+**Description**: In this challenge, I developed a comprehensive stock management system with strategic dashboard for LLC Electronics using advanced Excel functionalities. The solution transforms scattered inventory data into consolidated business intelligence insights with automated reporting capabilities.
 
+1) **Advanced Excel Functions Implementation**:
+   - VLOOKUP and INDEX/MATCH for data cross-referencing
+   - SUMIF, COUNTIF, and AVERAGEIF for conditional calculations
+   - Complex nested formulas for inventory valuation
+   - Dynamic array formulas for real-time data processing
+
+2) **Pivot Tables and Data Analysis**:
+   - Multi-dimensional pivot tables for inventory categorization
+   - Dynamic filtering by product categories, suppliers, and time periods
+   - Calculated fields for profit margins and turnover rates
+   - Pivot charts for visual trend analysis
+
+3) **Strategic Dashboard Development**:
+   - Executive summary with key performance indicators (KPIs)
+   - Real-time inventory status monitoring
+   - Stock level alerts and reorder point notifications
+   - Supplier performance metrics visualization
+
+4) **Business Intelligence Features**:
+   - Automated data consolidation from multiple sources
+   - Statistical analysis for demand forecasting
+   - ABC analysis for inventory classification
+   - Cost analysis and profitability tracking
+
+5) **Key Performance Indicators (KPIs)**:
+   - Inventory turnover ratio
+   - Stock-out frequency
+   - Carrying cost optimization
+   - Supplier lead time analysis
+   - Dead stock identification
+
+6) **Data Visualization and Reporting**:
+   - Interactive charts and graphs
+   - Conditional formatting for visual alerts
+   - Automated monthly and quarterly reports
+   - Trend analysis with forecasting capabilities
+
+**Skills developed**:
+- Advanced Excel formula construction and optimization
+- Pivot table mastery for multidimensional analysis
+- Business Intelligence dashboard creation
+- Inventory management best practices
+- Data visualization and storytelling
+- Statistical analysis and forecasting techniques
+- Supply chain analytics and KPI development
+</details>
+
+<details>
+<summary><b>🔍 Challenges 3-7</b> (Click to expand)</summary>
+  
 ### 🔍 Challenge 3: SQL Queries and Analysis (⏳ Not started)
 
 **Objective**: Create SQL queries to extract relevant information from relational databases.
