@@ -203,7 +203,7 @@ The course includes 7 practical challenges that apply concepts learned in each m
 | # | Challenge | Status | Technologies |
 |---|---------|--------|-------------|
 | 1 | E-commerce Dashboard | ✅ Completed | Power BI, DAX |
-| 2 | Structuring Company-s Stock | ✅ Completed | Excel, Advanced Functions |
+| 2 | Structuring Company's Stock | ✅ Completed | Excel, Advanced Functions |
 | 3 | SQL Queries and Analysis | ⏳ Not started | SQL, Databases |
 | 4 | Exploratory Analysis with Python | ⏳ Not started | Python, Pandas, Matplotlib |
 | 5 | Data Cleaning Pipeline | ⏳ Not started | Python, Pandas |
