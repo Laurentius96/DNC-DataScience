@@ -1,0 +1,49 @@
+id,valor,parte_debitada_nome,parte_debitada_conta,parte_debitada_banco,parte_creditada_nome,parte_creditada_conta,parte_creditada_banco,chave_pix_tipo,chave_pix_valor,data_transacao
+1,9.93,Dra. Ana Carolina Oliveira,79470453,Nubank,Maysa da Cruz,67162333,Itau,cpf,8439752610,2022-02-18 13:28:00
+2,15.38,Ana Caldeira,19689668,Itau,Evelyn Sales,60005091,Bradesco,cpf,27145380617,2022-04-08 01:47:00
+3,57.58,Arthur Goncalves,18856899,Bradesco,Maria Melo,13496303,BTG,cpf,16452937006,2022-07-14 03:18:00
+4,53705.13,Ana Julia Caldeira,22834741,Itau,Ana Livia Almeida,44695116,Nubank,cpf,26590384142,2022-01-15 18:06:00
+5,25299.69,Srta. Nicole Pinto,3715882,Nubank,Srta. Ana Laura da Rocha,21409465,Nubank,cpf,73486105280,2022-05-13 11:04:00
+6,7165.06,Gabriela Ferreira,2243037,Nubank,Larissa Souza,10689552,Itau,cpf,96845371237,2022-09-11 13:38:00
+10,42.88,Mirella Martins,29535709,Bradesco,Danilo Lopes,60064650,Itau,cpf,87014935232,2022-09-21 17:19:00
+11,33629.97,Sr. Vitor Gabriel da Costa,67010663,BTG,Sra. Lavinia Caldeira,48145941,Nubank,cpf,63542098124,2022-09-12 00:29:00
+12,4374.56,Nathan Peixoto,22975623,Nubank,Diogo da Luz,30302218,Bradesco,cpf,72908154323,2022-08-07 17:01:00
+15,815.53,Ana Laura Souza,79650252,Itau,Isabel Costa,28762988,BTG,cpf,51824039689,2022-02-21 11:25:00
+17,0.54,Otavio Cunha,85583961,Bradesco,Elisa Moreira,97003354,Bradesco,cpf,15248769094,2022-02-16 10:16:00
+18,49836.72,Ana Carolina Oliveira,80200942,Itau,Stella Fernandes,31579145,BTG,cpf,47609381250,2022-07-18 22:46:00
+19,9.68,Levi Martins,12349481,Itau,Joao Guilherme Mendes,31102492,BTG,celular,11916824404,2022-02-26 15:05:00
+22,22.43,Fernanda Melo,3317895,Nubank,Luiz Otavio Ribeiro,97680466,BTG,celular,84972507365,2022-08-04 00:48:00
+25,28.66,Leandro Freitas,91133554,Itau,Valentina Pereira,6414456,BTG,celular,71979984146,2022-08-24 15:39:00
+26,154.98,Luiza Pires,69839296,Bradesco,Pietra Melo,42851788,Itau,celular,71908616462,2022-01-28 16:51:00
+29,890.47,Sr. Luiz Felipe Santos,20051189,Bradesco,Enzo Gabriel Cardoso,17302910,Nubank,celular,31920761665,2022-11-19 19:25:00
+31,20875.64,Dr. Joao Gabriel Lopes,51847615,BTG,Ana Caldeira,69556895,Bradesco,celular,84993893778,2022-04-29 10:17:00
+33,1.58,Dra. Ana Vitoria Duarte,7482168,BTG,Alexia Farias,53857589,BTG,celular,81992580873,2022-07-03 23:37:00
+35,7944.02,Clara das Neves,74962702,BTG,Stella Santos,70949900,Nubank,celular,41953574945,2022-02-02 14:41:00
+36,48714.95,Pedro Miguel Azevedo,16805003,Itau,Guilherme Castro,82754334,Itau,celular,21962702716,2022-06-07 05:40:00
+39,2.52,Dr. Caua Cardoso,86824823,BTG,Ana Vitoria Pinto,91455952,Itau,celular,61966724314,2022-05-09 06:04:00
+41,60.55,Amanda Farias,35150923,BTG,Leonardo Gomes,54498411,Nubank,cpf,57924816011,2022-03-23 20:20:00
+47,38219.08,Livia das Neves,93530594,Itau,Alexia Araujo,47121539,BTG,cpf,40152936734,2022-05-23 06:48:00
+48,1379.61,Diogo Barbosa,43938121,Bradesco,Alexia Fogaca,77922324,Nubank,cpf,37450286190,2022-03-02 06:30:00
+50,8745.63,Joao Felipe Oliveira,59642337,Nubank,Lais Nascimento,70760031,Bradesco,cpf,83051264989,2022-07-17 03:37:00
+53,6037.91,Davi Porto,53093991,Bradesco,Luiz Gustavo Cardoso,875443,Bradesco,cpf,18905276458,2022-03-01 13:06:00
+55,35409.61,Joaquim da Rosa,87505519,Bradesco,Isabelly da Cunha,95347717,Bradesco,cpf,12574036808,2022-03-02 03:04:00
+58,61.29,Emanuelly Rocha,65498901,Nubank,Srta. Sophie da Costa,14803356,Bradesco,cpf,48157296030,2022-01-17 06:13:00
+59,348.54,Maria Duarte,46934189,Itau,Noah Moura,14854836,BTG,cpf,96203187577,2022-05-06 11:33:00
+62,57433.69,Clarice Rodrigues,3165782,Itau,Fernando das Neves,38861852,Itau,cpf,84390165224,2022-12-15 01:29:00
+63,191.22,Sra. Helena Viana,39149858,Bradesco,Isabelly Fogaca,61912623,Nubank,cpf,74968250185,2022-02-26 07:11:00
+64,1.44,Augusto da Cruz,52543959,Itau,Sr. Joao Lucas Viana,85178154,Nubank,cpf,17432895619,2022-10-05 21:39:00
+66,21639.12,Sra. Beatriz Viana,67936014,Nubank,Amanda Viana,25516806,BTG,cpf,12934078604,2022-06-05 12:14:00
+67,987.16,Gustavo Henrique Rezende,4035258,Itau,Lorenzo Moraes,46035072,BTG,cpf,57392106406,2022-04-28 16:47:00
+69,779.09,Benicio Silveira,81346436,Bradesco,Ana Laura Nogueira,36012533,Itau,cpf,3761298404,2022-01-06 04:45:00
+70,5.36,Enrico Costela,54996480,Itau,Heitor da Luz,11190989,Itau,cpf,30941825779,2022-04-03 02:48:00
+72,8465.47,Elisa Santos,94713975,Bradesco,Maysa Teixeira,16498581,BTG,email,maysa.teixeira@yahoo.com.br,2022-12-08 23:47:00
+75,1188.65,Davi Lucas Viana,8744886,Nubank,Enrico Sales,41968952,Bradesco,email,enrico.sales@hotmail.com,2022-04-12 04:02:00
+79,78559.4,Lucas Gabriel Cardoso,21729930,Bradesco,Brenda da Luz,11563344,Itau,email,brenda.da.luz@hotmail.com,2022-01-09 22:31:00
+80,452.38,Arthur Carvalho,23482854,Bradesco,Catarina Moura,38128549,BTG,email,catarina.moura@gmail.com,2022-11-04 01:50:00
+82,2842.73,Juliana Cardoso,75484383,Itau,Ana Luiza Fernandes,320358,Nubank,email,ana.luiza.fernandes@outlook.com,2022-10-29 23:43:00
+84,9.28,Sra. Amanda Aragao,93254442,Itau,Rodrigo Vieira,76051047,BTG,email,rodrigo.vieira@hotmail.com,2022-11-29 06:17:00
+85,4.68,Joao Rocha,38006155,Bradesco,Juliana da Cunha,31455037,Bradesco,email,juliana.da.cunha@hotmail.com,2022-02-23 01:30:00
+90,32.23,Sr. Matheus Santos,73634717,Bradesco,Isabel Ferreira,4979355,Nubank,email,isabel.ferreira@gmail.com,2022-08-22 19:56:00
+94,649.41,Yasmin Goncalves,23425712,Itau,Vicente Alves,99848619,BTG,email,vicente.alves@gmail.com,2022-08-26 00:56:00
+96,869.39,Ana Livia Carvalho,95439137,Itau,Dra. Vitoria da Paz,32448747,BTG,email,vitoria.da.paz@hotmail.com,2022-07-30 19:56:00
+99,9.77,Ana Livia Correia,37128931,Itau,Gabrielly Viana,97906999,Nubank,email,gabrielly.viana@gmail.com,2022-02-01 20:54:00
