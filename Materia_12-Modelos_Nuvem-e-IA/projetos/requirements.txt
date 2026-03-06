@@ -2,3 +2,6 @@ streamlit
 scikit-learn
 pandas
 numpy
+transformars
+torch
+gradio

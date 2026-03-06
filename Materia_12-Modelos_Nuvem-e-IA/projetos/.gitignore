@@ -1,4 +1,4 @@
-# Virtual Environment
+# Virtual Environment - Regras mais específicas
 venv/
 env/
 .venv/
@@ -7,6 +7,12 @@ ENV/
 .env/
 virtualenv/
 pythonenv/
+chatbot_env/
+**/venv/
+**/.venv/
+**/env/
+**/.env/
+**/chatbot_env/
 
 # Python cache files
 __pycache__/
@@ -64,6 +70,11 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Diretório de cache personalizado para modelos
+modelos_cache/
+./modelos_cache/
+**/modelos_cache/
+
 # Modelos e dados grandes
 models/
 *.model
@@ -80,10 +91,50 @@ models/
 *.savedmodel
 **/cache/
 .cache/
+**/.cache/
 huggingface/
+**/.huggingface/
+**/transformers_cache/
+**/.transformers_cache/
+
+# Hugging Face específico
+**/.huggingface/
+**/.cache/huggingface/
+**/hub/
+**/.hub/
+**/datasets/
+**/.datasets/
+**/.transformers_cache/
+**/transformers_modules/
+**/__pycache__/
+**/*.pyc
 
 # Arquivos temporários
 tmp/
 temp/
 .DS_Store
 Thumbs.db
+
+# Específico para este projeto
+**/blenderbot*/
+**/facebook/
+**/*blenderbot*
+**/*distill*
+**/*transformers*
+
+# Ignorar todos os arquivos grandes (>100MB)
+**/*.safetensors
+**/*.msgpack
+**/*.arrow
+**/*.hdf5
+**/*.h5
+**/*.data
+**/*.dat
+**/*.npy
+**/*.npz
+
+# Ignorar todos os arquivos em diretórios específicos do modelo
+Materia_12-Modelos_*/
+
+# Ignorar qualquer diretório que comece com ponto
+.**/
