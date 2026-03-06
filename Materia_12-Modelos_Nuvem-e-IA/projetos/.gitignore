@@ -4,6 +4,9 @@ env/
 .venv/
 ENV/
 .chatbot_env/
+.env/
+virtualenv/
+pythonenv/
 
 # Python cache files
 __pycache__/
@@ -16,21 +19,71 @@ __pycache__/
 dist/
 build/
 *.egg-info/
+*.egg
+.installed.cfg
+downloads/
+eggs/
+parts/
+sdist/
+var/
+wheels/
+*.manifest
+*.spec
 
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# VS Code settings
+# IDE settings
 .vscode/
-
-# PyCharm settings
 .idea/
+*.swp
+*.swo
+.spyderproject
+.spyproject
+.ropeproject
+/site
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
 
 # Local environment variables
 .env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
 # Streamlit
 .streamlit/
 
-# Outros
+# Logs
 *.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Modelos e dados grandes
+models/
+*.model
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.bin
+*.onnx
+*.tflite
+*.pb
+*.savedmodel
+**/cache/
+.cache/
+huggingface/
+
+# Arquivos temporários
+tmp/
+temp/
+.DS_Store
+Thumbs.db
